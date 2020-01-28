@@ -36,6 +36,9 @@ public class initDataLoader {
         albumRepository.save(secondAlbum);
         albumRepository.save(thirdAlbum);
 
+
+        // kifutottam az idobol, meg amugysem ezt kellett volna
+
     }
 
     
